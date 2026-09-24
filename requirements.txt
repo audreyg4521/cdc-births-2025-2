@@ -1,0 +1,11 @@
+# Core web framework for dashboard interface
+streamlit>=1.30.0
+
+# Data manipulation and tabular analysis
+pandas>=2.0.0
+
+# Excel file reading (.xlsx format)
+openpyxl>=3.1.0
+
+# Interactive data visualizations and maps
+plotly>=5.18.0
